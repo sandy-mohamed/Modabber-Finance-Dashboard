@@ -9,6 +9,17 @@ Modabber (مدبّر) presents financial information through a clean, organized,
 
 [View Live Website](https://sandy-mohamed.github.io/Modabber-Finance-Dashboard/)
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Modabber dashboard: balance, income, expenses and recent transactions](screenshots/01-dashboard-top.jpg)
+
+### Bills and Budget
+![Monthly bills and budget overview](screenshots/02-dashboard-middle.jpg)
+
+### Payment Methods and Accounts
+![Payment methods, income vs expenses and account summary](screenshots/03-dashboard-bottom.jpg)
+
 ## ✨ Features
 
 - 📊 Financial overview dashboard
